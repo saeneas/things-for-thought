@@ -8,7 +8,9 @@ Until next week, make a pull request to this repository by editing this file!
 There are a couple ways to do it:
 
 🐇 **Beginner mode:** Sign up to GitHub, make a change to this file and propose a change.
+
 🐗 **Intermediate mode:** Sign up to GutHub, fork this repository, open it in a GitHub Codespace, make the changes there and make the pull request.
+
 🦖 **Hard mode:** Sigh up to GitHub, download the VS Code IDE, and do it from there..
 
 I will leave it to you to research how this exactly works :-) Learning how git works is probably one of the best covered topics on youtube. There's also interactive tutorials out there.
