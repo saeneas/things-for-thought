@@ -25,5 +25,4 @@ To kick off the un(learning) learning theme of our course, try to approach the t
 
 🍀 ** good luck **
 
-
-Hallo leon war hier...
+easy mode
