@@ -24,3 +24,6 @@ To kick off the un(learning) learning theme of our course, try to approach the t
 - How could it help you?
 
 🍀 ** good luck **
+
+
+Hallo leon war hier...
