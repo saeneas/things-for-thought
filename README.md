@@ -24,3 +24,8 @@ To kick off the un(learning) learning theme of our course, try to approach the t
 - How could it help you?
 
 🍀 ** good luck **
+
+wandering through digits and waves 
+through letters and thoughts 
+never coming close 
+to what I really crave 
