@@ -9,7 +9,7 @@ There are a couple ways to do it:
 
 🐇 **Beginner mode:** Sign up to GitHub, make a change to this file and propose a change.
 
-🐗 **Intermediate mode:** Sign up to GutHub, fork this repository, open it in a GitHub Codespace, make the changes there and make the pull request.
+🐗 **Intermediate mode:** Sign up to GitHub, fork this repository, open it in a GitHub Codespace, make the changes there and make the pull request.
 
 🦖 **Hard mode:** Sigh up to GitHub, download the VS Code IDE, and do it from there..
 
