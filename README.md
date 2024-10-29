@@ -20,8 +20,8 @@ The more people solve it the better! One last thing.. GitHub is a powerful tool 
 To kick off the un(learning) learning theme of our course, try to approach the task through this lense.
 - What is Git? And how is it different from GitHub?
 - Why do you think does every programmer use it?
-- Why might it be designed the way it is designed?
-- How could it help you?
+- Why might it be designed the way it is designed?     ()()
+- How could it help you?                                o
 
 🍀 ** good luck **
 
