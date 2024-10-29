@@ -1,7 +1,7 @@
 # things-for-thought
 
 Welcome to the official things-for-thought course page!
-There's not much here to see but this:
+There's not much here to see but this: lol
 
 ### 🔮 🗡️ Side Quest 🗡gmfvhtugv
 Until next week, make a pull request to this repository by editing this file!
@@ -19,12 +19,14 @@ The more people solve it the better! One last thing.. GitHub is a powerful tool 
 
 To kick off the un(learning) learning theme of our course, try to approach the task through this lense.
 - What is Git? And how is it different from GitHub?
+git is the platform to edit/change/code the project while it tracks the changes, and github is the host platform to submitt the changes to the project leader.
 - Why do you think does every programmer use it?
+To work on a a single project simultaneously from anywhere.
 - Why might it be designed the way it is designed?
 - How could it help you?
+Not to sure, but it has already helped me learn a bit about the 'coding world'(terminology and the absolute basics)
 
 🍀 ** good luck **
-
+Danke schön
 
 Hallo leon war hier...
-Wer ist Leon?
