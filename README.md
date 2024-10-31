@@ -15,22 +15,22 @@ We will do check-ins for directions and also learning subjects on monday, so we 
 For this, please write a three-line paragraph on your direction 
 
 *Preliminary Program:*
-Monday
-10 Reading club & some input.
-12 Topic and learning 1:1 I
-13 Lunch 
-14 Topic discussion and critique continued.
-15 - 17 Work on your projects. 
-
-Tuesday
-10 Meet and weekly input
-11 Work on your projects
-13 Lunch
-14 Direction and learning 1:1 II
-
-
-
-
+Monday  
+10 Reading club & some input.  
+12 Topic and learning 1:1 I  
+13 Lunch   
+14 Topic discussion and critique continued.  
+15 - 17 Work on your projects.   
+  
+Tuesday  
+10 Meet and weekly input  
+11 Work on your projects  
+13 Lunch  
+14 Direction and learning 1:1 II  
+  
+  
+  
+  
 ## Weekly Summaries
 First, find a summary of this week [here][sessions/week-2.md] and last week [here][sessions/week-1.md].
 You can find the slides in the same folder.
