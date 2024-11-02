@@ -1,16 +1,25 @@
 30.10.24 - Base Idea started in handheld bacteria scanner -- stuck at finding parts for the assembly. 
 Alternative pov - Mushroom identifier, eg tool for hunter gathererers - going back to the roots.
 
-01.11.24 - After reading parts of "an Immense World" (some snakes hunt through detecting vibrations and subtle movements that accompany heartbeats) 
+01.11.24 - 02.11.24 - After reading part of "an Immense World" (some snakes hunt through detecting vibrations and subtle movements that accompany heartbeats) 
 and the talk about how much more sensitive api could be to the data given, I have started reasearch about how unique a heatrbeat could be to a person, and how well is this point is researched or used.
 
 possible compact modules for teaching and use - 
-• ThinkLabs One Digital Stethoscope: Captures high-fidelity heart and lung sounds, designed for telemedicine and digital health applications.
 • AD8232 Heart Rate Monitor/ECG Sensor: A low-power ECG sensor capable of detecting heart rate and waveform patterns, ideal for creating unique heartbeat profiles.
-• Texas Instruments LDC1614 Inductive Proximity Sensor: Highly sensitive to small vibrations and suitable for detecting subtle movements, such as those accompanying heartbeats.
 • MAX30102 Pulse Oximeter and Heart-Rate Sensor: Measures oxygen saturation and heart rate via optical sensors, commonly used in wearables for real-time monitoring.
 • MPU6050 Gyroscope/Accelerometer: Provides motion and vibration data, useful for detecting subtle body movements associated with cardiac activity.
 • Panasonic ERT-J0EG103FA NTC Thermistor: Measures temperature changes, which could support tracking physiological variations in health monitoring contexts.
 
 interesting use case for me - as a part of adventure/going back to the roots point, obtaining bigger connection with items which dont posses as much weight nowdays 
 as they did in the past like a knife which unlockes after hearing the heart of the owner. (not practical, more "symbolic")
+
+
+side research / ideas - 
+Tools for protests
+Sign catcher
+spiral dynamics developmental levels
+Mind maps
+Digital Ethnography
+
+
+
