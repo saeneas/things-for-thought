@@ -6,6 +6,8 @@ Thanks everybody for a great second week.
 Congratulation on your pull requests! As a follow up, here's your briefing for your *next quest*:
 Create a folder and a file in the students folder. Both should have the same name as you :-) Here you will write a small journal that documents your process. Please start with an entry on your current thoughts on your project direction. The more finish before next week, the better I can support you by providing resources and directions! Don't forget to submit the pull request! ;-)
 
+This repository is configured to automatically render the markdown to a website that you can find [here](https://saeneas.github.io/things-for-thought).
+
 ## What's next
 Take another look at the slides from this week and align your process with the schedule.
 By next week you should have 
@@ -32,7 +34,7 @@ Tuesday
   
   
 ## Weekly Summaries
-First, find a summary of this week [here][sessions/week-2.md] and last week [here][sessions/week-1.md].
+First, find a summary of this week [here](sessions/week-2.md) and last week [here](sessions/week-1.md).
 You can find the slides in the same folder.
 
 ## Reading Recommendations
