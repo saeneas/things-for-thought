@@ -1,7 +1,8 @@
-30.10.24 - Base Idea started in handheld bacteria scanner -- stuck at finding parts for the assembly. 
+- 30.10.24 - Base Idea started in handheld bacteria scanner -- stuck at finding parts for the assembly. 
 Alternative pov - Mushroom identifier, eg tool for hunter gathererers - going back to the roots.
 
-01.11.24 - 02.11.24 - After reading part of "an Immense World" (some snakes hunt through detecting vibrations and subtle movements that accompany heartbeats) 
+
+- 01.11.24 - 02.11.24 - After reading part of "an Immense World" (some snakes hunt through detecting vibrations and subtle movements that accompany heartbeats) 
 and the talk about how much more sensitive api could be to the data given, I have started reasearch about how unique a heatrbeat could be to a person, and how well is this point is researched or used.
 
 possible compact modules for teaching and use - 
@@ -24,7 +25,18 @@ side research / ideas - things for thoats
 
 
 
-04.11.2003 - 
+- 04.11.2003
 
-Read - Carrier bag theory of fiction
-Heart beat likeness detection
+Read - 
+Carrier bag theory of fiction 
+
+ids - Heart beat likeness detection
+
+usefull gits found
+https://github.com/mullisd1/CV_Heartrate (dark magic)
+https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification
+https://github.com/SoufianeDataFan/ECG-authentificate (very useful)
+
+key elements for me - 
+Have ecg data not only from finger/pulse but needing to bring an item close to the heart.
+
