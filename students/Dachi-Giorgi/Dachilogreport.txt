@@ -58,7 +58,7 @@ Heart beat for things you love the most
 
 - 05.11.2024
 
-Shopping list:
+Shopping list:                                                    Subtotal: 50€ +- 10€
 
   ESP32                                                                     10€                               amazon.de                                
   AD8232 ECG sensor + electrodes                                            12€                               https://shorturl.at/qDBr7
