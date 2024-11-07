@@ -20,20 +20,20 @@ I will continue adding you as contributors to the repository today..
 ## What's next
 For next weeks feedback rounds, please start communication your ideas through sketches, doodles, text, presentations, slides, any format that you think suits your process and project best. 
 
-*Preliminary Schedule*
-Monday
-10 Reading Club
-11:30 Check-in and project work
-13 Break
-14 Input and discussion
-15 project work
-
-Tuesday
-10 Project work
-12 Input
-13 Break
-14 Input and discussion
-15 Check-Out and project work
+*Preliminary Schedule*  
+Monday  
+10 Reading Club  
+11:30 Check-in and project work  
+13 Break  
+14 Input and discussion  
+15 project work  
+  
+Tuesday  
+10 Project work  
+12 Input  
+13 Break  
+14 Input and discussion  
+15 Check-Out and project work  
 
 # Week 3 Announcements
 
