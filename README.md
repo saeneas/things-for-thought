@@ -9,7 +9,7 @@ The task is MANDATORY :-), so even if it seems challenging in the beginning, I a
 
 ### Reading assignments
 - [Excerpt on situated actions - Lucy Suchman](https://course.ccs.neu.edu/cs5100f12/resources/reading/suchman-situatedactions.pdf)
-- [What we talk about when we talk about context - Dourish](https://www.academia.edu/download/50627076/Dourish.pdf)
+- [What we talk about when we talk about context - Dourish](https://cseweb.ucsd.edu/~goguen/courses/275/dourish.pdf)
 - [On the transition from second to third wave HCI - Susanne Bødtker](https://pure.au.dk/ws/portalfiles/portal/93115128/nordichipreprint.pdf)
 
 ### Coding primer
