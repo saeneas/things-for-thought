@@ -1,12 +1,45 @@
 # things-for-thought
 
+# Week 4 Announcements
+
+Hey everybody,
+all of you came of with great directions for your research and I'm very excited for what you come up with!
+In the slides folder, find the mandatory reading assignments: Everyone needs to skim all articles, and then select one of them to thoroughly read. I recommend using one of the academic reading techniques referenced in class (also on one of the slides, there is a link). Please coordinate in order to avoid all of you selecting the same article.
+The task is MANDATORY :-), so even if it seems challenging in the beginning, I assure that you will, long or short term, benefit a lot from being able to incorporate reading articles and papers into your research process. 
+
+### Reading assignments
+- [Excerpt on situated actions - Lucy Suchman](https://course.ccs.neu.edu/cs5100f12/resources/reading/suchman-situatedactions.pdf)
+- [What we talk about when we talk about context - Dourish](https://cseweb.ucsd.edu/~goguen/courses/275/dourish.pdf)
+- [On the transition from second to third wave HCI - Susanne Bødtker](https://pure.au.dk/ws/portalfiles/portal/93115128/nordichipreprint.pdf)
+
+### Coding primer
+We will start with the coding classes in two weeks, so I thought for some of you, who have very few prior experiences with coding, it would be helpful to get accustomed to some of the terminology and get an overview. Here's the [video referenced in class on the basics of coding](https://www.youtube.com/watch?v=zOjov-2OZ0E). There's many many videos like this out there, so if this doesn't suit you, please find ones that work better for you and also most importantly *share*. (you can add them here via pull request).
+### Github
+I will continue adding you as contributors to the repository today.. 
+
+## What's next
+For next weeks feedback rounds, please start communication your ideas through sketches, doodles, text, presentations, slides, any format that you think suits your process and project best. 
+
+*Preliminary Schedule*  
+Monday  
+10 Reading Club  
+11:30 Check-in and project work  
+13 Break  
+14 Input and discussion  
+15 project work  
+  
+Tuesday  
+10 Project work  
+12 Input  
+13 Break  
+14 Input and discussion  
+15 Check-Out and project work  
+
 # Week 3 Announcements
 
 Thanks everybody for a great second week.
 Congratulation on your pull requests! As a follow up, here's your briefing for your *next quest*:
 Create a folder and a file in the students folder. Both should have the same name as you :-) Here you will write a small journal that documents your process. Please start with an entry on your current thoughts on your project direction. The more finish before next week, the better I can support you by providing resources and directions! Don't forget to submit the pull request! ;-)
-
-This repository is configured to automatically render the markdown to a website that you can find [here](https://saeneas.github.io/things-for-thought).
 
 ## What's next
 Take another look at the slides from this week and align your process with the schedule.
@@ -52,9 +85,5 @@ A harder read than the others.
 Although some of you have already read it, I will also recommend this book on the intersection of design and HCI as an essential reading.
 It is a lot more approachable than the other two books, and a good introduction to some of the jargon and terminology.
 
-
-
-Hallo leon war hier...
-Test Linus
 
 
