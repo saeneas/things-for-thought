@@ -1,5 +1,38 @@
 # things-for-thought
 
+# Week 5 Announcements
+  
+Hey class,
+thanks for another great week. You are doing great and we're super excited to see how all your amazing ideas are going to develop!
+
+## References from class
+Referring to the (un)learning lab session on tuesday, here are some of the classics of mid-century media theory that I briefly mentioned.
+They are of course not mandatory, but I figured, some of you might be interested:
+The texts and authors were a bit arbitrary. I recommend this binder to get into the topic. There are other binders out there, but I think this one gives you a good entry point.
+- [Classics in Media Theory Binder - Bengtsson, Ericson Stiernstedt](https://www.routledge.com/Classics-in-Media-Theory/Bengtsson-Ericson-Stiernstedt/p/book/9781032557953?srsltid=AfmBOooNupWfAk2s_Nsig8kjWU0KbDA_4YOWfQTkRl4SNvQ8co_098cj)
+
+## Mandatory Reading
+Thanks for bearing with the more academic and challenging texts from last week. It was great to hear that some of you were able to extract some value from them, even though you are maybe just getting used to these types of literature. For this week, as a treat, the texts are a bit more casual.
+Please read *all of them* this time.
+
+- [the computer for the 21st century - Mark Weiser](https://calmtech.com/papers/computer-for-the-21st-century)
+- [why the future doesn't need us - Bill Joy](https://archive.ph/SvgOr)
+- [you are now remotely controlled - Shoshana Zuboff](https://archive.is/EL5RL)
+
+## Preliminary Schedule for next week
+.. I'll update this later today.
+
+
+## A small note on attendance
+Attendance has been slowly slipping a bit, leading to a sub-50% attendance last tuesday before lunch.
+Unfortunately this means we are going to track attendance from next week in order to be able to efficiently schedule and conduct input sessions and 1on1s possible, please refer to the studienordnung for the required quota to receive credits.
+We will only offer check-out for students who attend before the DAM class. 
+
+
+### Coding primer
+We will have the first session of the coding classes next week, so please remember to watch the [video referenced in class on the basics of coding](https://www.youtube.com/watch?v=zOjov-2OZ0E) in case needed, so we can assume some basic understanding of what's happening. Many of you will already know enough of what is taught in the video, but please take a quick look to make sure.
+
+
 # Week 4 Announcements
 
 Hey everybody,
