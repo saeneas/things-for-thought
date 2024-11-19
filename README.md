@@ -5,10 +5,10 @@ Hey all,
 I hope you could recover a bit in this slightly shortened week. I realize it is somewhat a challenge that many of you have quite a tight schedule and assignments from various classes competing for the rare time slots that arent blocked with attendance.
   
 ## Project input
-As some of you expressed some worries on having sufficiently progressed on their projects, I wanted to quickly mention that we think you're doing a great job, and quickly reiterate that I think it is necessary to get into *DOING-MODE* ASAP to transition into
-the next phase of the project, and uncover some more specific questions to deal with. For next week, please remember to bring something we can talk about. We have individually talked in this weeks check-outs on potential formats, but really any type of tangible
-results or drafts are very welcome and provide the necessary basis for getting the best feedback. If nothings on the table, it is very difficult to have a good discussion about your project.
-That being said, I think your concepts are amazing and we're going to have a killer exhibition at the end of the semester!  
+As some of you expressed some worries on having sufficiently progressed on their projects, I wanted to quickly mention that we think you're doing a great job, and quickly reiterate that we believe you should to get into *DOING-MODE* ASAP to transition into
+the next phase of the project in order to uncover some more specific design questions to deal with. For next week, please remember to bring something we can talk about. We have individually talked in this weeks check-outs on potential formats, but really any type of tangible
+results or drafts are very welcome to provide the basis for getting helpful feedback. If nothing's on the table, it is very difficult to have a good discussion.
+That being said, we think your concepts are amazing and we're going to have a killer exhibition at the end of the semester!  
     
 We also wanted to add a quick reminder to remember the course briefing - how does your project deal with the topic of how technology changes the way we think?  
 We will conclude the research phase (*what do I want to say*-phase) next week, so we're doing extended check-outs on tuesday after lunch.    
