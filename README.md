@@ -29,19 +29,19 @@ And as a treat, a podcast episode:
 
 ## Preliminary Schedule
 Monday
-10      Check-Ins (couple minutes each)
-11      Project Work
-12:15   Reading Club and some input on the next project phase
-13      Lunch
-14      Future Narratives Workshop with Johanna Wallenborn  
-
-Tuesday
-10      Coding Workshop
-13      Lunch
-14      90s presentations
-14:45   Check-outs
-
-
+10      Check-Ins (couple minutes each)  
+11      Project Work  
+12:15   Reading Club and some input on the next project phase  
+13      Lunch  
+14      Future Narratives Workshop with Johanna Wallenborn    
+  
+Tuesday  
+10      Coding Workshop  
+13      Lunch  
+14      90s presentations  
+14:45   Check-outs  
+  
+  
 Mind that we're extending this weeks program to 5 p.m. according to schedule.
 
 See you next week!
