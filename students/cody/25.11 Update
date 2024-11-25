@@ -1,0 +1,21 @@
+Our collective mood is shaped by our participation in society and us affecting each other. 
+In order to progress as a society we need to be mindful of how and what affects our moods, 
+and in this design dreaming universe we may be able to predict it.
+
+Are our emotions shared and cyclical? Are emotions “forecastable” and influenced by larger societal forces eg. news cycles, social media trends, or collective events? Are we now at the whim of notifications,  infinite scrolling, and gamified interactions trigger dopamine responses or are we at the forefront of real-time connection amplifying all of our positive emotions? Who controls our mood? Tech, society or you?
+
+
+//This project aims to delve into what the global emotional state is. 
+//Technology has created a sense of collective emotion on an unprecedented scale, 
+//as people globally share reactions to all major events. Empathy or emotional fatigue?
+
+
+
+UPDATE
+
+Emotional contagion exists in every aspect of our lives, including our lives online. Not only do we take these experiences with us when we leave an online sphere, but we share it and give it to one another. 
+
+- I want the user to think of this.
+- three screens; one input, two see the collective mood today, three = history and zukunft. 
+- simple exponential smoothing; weights recent results more than older ones
+

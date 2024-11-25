@@ -1,5 +1,52 @@
 # things-for-thought
 
+# Week 6 Announcements
+Hey all,  
+I hope you could recover a bit in this slightly shortened week. I realize it is somewhat a challenge that many of you have quite a tight schedule and assignments from various classes competing for the rare time slots that arent blocked with attendance.
+  
+## Project input
+As some of you expressed some worries on having sufficiently progressed on their projects, I wanted to quickly mention that we think you're doing a great job, and quickly reiterate that we believe you should to get into *DOING-MODE* ASAP to transition into
+the next phase of the project in order to uncover some more specific design questions to deal with. For next week, please remember to bring something we can talk about. We have individually talked in this weeks check-outs on potential formats, but really any type of tangible
+results or drafts are very welcome to provide the basis for getting helpful feedback. If nothing's on the table, it is very difficult to have a good discussion.
+That being said, we think your concepts are amazing and we're going to have a killer exhibition at the end of the semester!  
+    
+We also wanted to add a quick reminder to remember the course briefing - how does your project deal with the topic of how technology changes the way we think?  
+We will conclude the research phase (*what do I want to say*-phase) next week, so we're doing extended check-outs on tuesday after lunch.    
+_Prepare your current statement and how you want to (for now) plan to express it through a design artifact - bring sketches, mock-ups, doodles, etc._.  
+_Also prepare a 90 second presentation to explain what it is you want to say and how you currently plan to say it. Two slides - focus on making it extra clear and compelling._  
+_Collect all presentations on one laptop beforehand._  
+  
+PLEASE DON'T FORGET YOUR LAPTOPS ON TUESDAY :-)  
+  
+## Mandatory Reading/Listening
+As promised, we'll go a bit lighter on the assignments, so you have more time to work on your projects this week, before the coding and futuring classes are starting next week.
+
+One more classic from the XEROX/Parc alumnis:  
+- [The coming age of calm technology](https://calmtech.com/papers/coming-age-calm-technology)  
+And as a treat, a podcast episode:  
+[Ezra Klein Show with LM Sacasas](https://www.nytimes.com/2021/08/03/opinion/ezra-klein-podcast-lm-sacasas.html)  
+*the newsletter by the guest that is mentioned in the episode is definitely recommendable and features some relatively short and inspiring reads*  
+  
+## Preliminary Schedule
+Monday
+10      Check-Ins (couple minutes each)  
+11      Project Work  
+12:15   Reading Club and some input on the next project phase  
+13      Lunch  
+14      Future Narratives Workshop with Johanna Wallenborn    
+  
+Tuesday  
+10      Coding Workshop  
+13      Lunch  
+14      90s presentations  
+14:45   Check-outs  
+  
+  
+Mind that we're extending this weeks program to 5 p.m. according to schedule.
+
+See you next week!
+
+
 # Week 5 Announcements
   
 Hey class,
