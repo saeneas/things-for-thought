@@ -1,13 +1,13 @@
 - 30.10.24
 
 Base Idea started in handheld bacteria scanner -- stuck at finding parts for the assembly. 
-Alternative pov - Mushroom identifier, eg tool for hunter gathererers - going back to the roots.
+Alternative pov - Mushroom identifier, eg tool for hunter gatherers - going back to the roots.
 
 
 - 01.11.24 - 02.11.24 
 
 After reading part of "an Immense World" (some snakes hunt through detecting vibrations and subtle movements that accompany heartbeats) 
-and the talk about how much more sensitive api could be to the data given, I have started reasearch about how unique a heatrbeat could be to a person, 
+and the talk about how much more sensitive api could be to the data given, I have started research about how unique a heartbeat could be to a person, 
 and how well is this point researched or used.
 
 possible compact modules for teaching and use - 
@@ -16,27 +16,29 @@ possible compact modules for teaching and use -
   • MPU6050 Gyroscope/Accelerometer: Provides motion and vibration data, useful for detecting subtle body movements associated with cardiac activity.
   • Panasonic ERT-J0EG103FA NTC Thermistor: Measures temperature changes, which could support tracking physiological variations in health monitoring contexts.
 
-interesting use case for me - as a part of adventure/going back to the roots point, obtaining bigger connection with items which dont posses as much weight nowdays 
-as they did in the past like a knife which unlockes after hearing the heart of the owner. (not practical, more "symbolic")
+interesting use case for me - as a part of adventure/going back to the roots point, obtaining bigger connection with items which don't posses as much weight nowadays 
+as they did in the past like a knife which unlocks after hearing the heart of the owner. (not practical, more "symbolic")
 
 
-side research / ideas - things for thoats
+side research / ideas - things for thoughts
   • Tools for protests
-  • Signs catcher (Sensors and mainly all tech like good example a flipper zero sense the world in a completle different way from human 5 senses - a device that would catch Signs
-  • pattrns somewhat spiritual mimicing human tendency to look for signs)
+  • Signs catcher (Sensors and mainly all tech like good example a flipper zero sense the world in a complete different way from human 5 senses - a device that would catch Signs
+  • patterns somewhat spiritual mimicking human tendency to look for signs)
   • spiral dynamics developmental levels
     Mind maps
   • Digital Ethnography
 
 
 
-- 04.11.2003
+
+
+04.11.2003
 
 Read - 
 Carrier bag theory of fiction - 
-Very interesting, It reminded me of a quote I had saved on tumbler a while ago (im still using tumbler not ashamed of it) and apperantly its also hers from another book
+Very interesting, It reminded me of a quote I had saved on tumbler a while ago (i'm still using tumbler not ashamed of it) and apparently its also hers from another book
 
-  " We have been so desensitized by a hundred and fifty years of ceaselessly expanding technical prowess that we think nothing less complex and 
+  " We have been so desensitised by a hundred and fifty years of ceaselessly expanding technical prowess that we think nothing less complex and 
   showy than a computer or a jet bomber deserves to be called "technology" at all. As if linen were the same thing as flax — 
   as if paper, ink, wheels, knives, clocks, chairs, aspirin pills, were natural objects, born with us like our teeth and fingers as if
   steel saucepans with copper bottoms and fleece vests spun from recycled glass grew on trees, and we just picked them when they were ripe... "
@@ -46,13 +48,13 @@ Some metaphysical aspects of the Knife - Im not sure if its going to end up bein
 Its very special to me how after death, the knife in a way kind of dies with the owner. 
 Opening up an old way of interaction with the object in order to operate it, in some sense unearthing a buried instinct deep in our psyche. 
 a relic of ancient times, would it be from years of infants held close to the hearts of parents or long past ceremonies, agricultural and daily activities, 
-whatever the root - The action remains a kind of innate behavior that most scratches across time.
+whatever the root - The action remains a kind of innate behaviour that most scratches across time.
 
 In a way bringing an “innovation” to this ancient act, reshapes the interaction. 
 We still reach out, Hold near and almost try to become one with an object but this time they respond, 
 React in the same way holding you themselves sharing with you the same attachment. 
 
-usefull gits found 
+useful gits found 
   https://github.com/mullisd1/CV_Heartrate (dark magic)
   https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification
   https://github.com/SoufianeDataFan/ECG-authentificate (very useful)
@@ -63,25 +65,94 @@ Im looking into if the combined data from Single-Lead ECG and PPG Combination Se
 Ids - 
 Heart beat for things you love the most
 
-- 05.11.2024
+
+
+
+05.11.2024
 
 Shopping list:                                                    Subtotal: 50€ +- 10€
 
-  ESP32                                                                     10€                               amazon.de                                
-  AD8232 ECG sensor + electrodes                                            12€                               https://shorturl.at/qDBr7
-  MAX30102 pulse oximeter                                                   5€                                https://shorturl.at/8jJHy                            
-  Adafruit Push-button Power Switch Breakout                                6€                                https://www.adafruit.com/product/1400
-  Adafruit DRV2605L Haptic Controller Breakout                              7€                                https://www.adafruit.com/product/2305
-  MicroSD Card ModuleX3                                                     6€                                https://shorturl.at/QDr8o
+  ✔️ ESP32                                                                     10€                               amazon.de                                
+  ✔️ AD8232 ECG sensor + electrodes                                            12€                               https://shorturl.at/qDBr7
+  ✔️ MAX30102 pulse oximeter                                                   5€                                https://shorturl.at/8jJHy                            
+  Adafruit Push-button Power Switch Breakout                                  6€                                https://www.adafruit.com/product/1400
+  Adafruit DRV2605L Haptic Controller Breakout                                7€                                https://www.adafruit.com/product/2305
+  ✔️ MicroSD Card ModuleX3                                                     6€                                https://shorturl.at/QDr8o
   Rechargeable LiPo Battery (3.7V) and Battery Management Board             Unknown need to 
                                                                             request for a project             https://www.grepow.com/shaped-battery/ultra-narrow-battery.html
     Do i really need these?
       low-pass or band-pass filter module                                   Unknown if not from amazon                                
       Panasonic ERT-J0EG103FA                                               2-3€                               
        
-
-
 Knife Parts and Mechanism:
   Solenoid Lock
   Blade
-  Grip/Handle resin 3d print mold - injection molding?
+  Grip/Handle resin 3d print mould - injection moulding?
+
+
+
+
+11.11.2024 - 22.11.2024
+
+Bought parts - arriving tomorrow
+remaining - Button  
+            Vibration module
+            Battery (already emailed grepow)
+            Solenoid lock
+            vibration module (ask which one)
+
+Today - 
+  Tasks:
+    Figure out how to implement the git (choose the one working) : for now sticking with - axelmukwena
+    What data should I use
+        for now exploring only using ESG
+        after vibration
+        after vibration and PPG
+
+So far - 
+  ECG scan should be easy enough after reading through the file, Iv set up the "Cardiochip" adding MIT-BIH Dataset of ECG scans. (feel like a Cardiologist)
+  Problem - If I want to use ECG scan the electrodes need to be either attached directly to skin, or through embeding textile electrodes in the shirt.
+  Also if I need to proceed with ECG the sensor I bought won't be clear enough if its even working at all the bsd101 costs 70 euro which is doable if I make up
+  my mind about using ECG - but first I'll try with the cheaper one. - but this is basically ready made solution https://shorturl.at/E9aD3
+
+Ordered BMD101 so the technical side should be done by now not including understanding the code.
+
+
+Iv left the knife behind - I do want to get back to it on my own, but that should be easy as by then Ill have the hardware part pointed down. I do understand the 
+irelevancy of industrilising a knife nowdays, maybe it is not the right time in history for the relevency it had, from back in the days Beyond its practical use, 
+such daggers where a symbol of honor and heritage, often passed down through generations as a family heirloom. After some reflection and fighting through many brain fogs - 
+Iv narrowd down the direction I want to go into - we did joke around with the idea of making a key, a purse small locket but ultimatly I don't think either of those objects
+need an imeddiete lock nor do they requere the connection I seek. 
+
+Ultimately, I’m leaning toward creating a cardholder/Bitcoin wallet as a modern everyday carry essential that I think actually needs security - I think in this process I might
+have lost a conceptual side or have a different perespective on what counts as good concept.
+
+
+                                        "The world, as it stands now, is a strange and sinister place. Deception, fraud, trickery—it’s 
+                                        not just out there; it’s everywhere, in the air we breathe. Faces, fingerprints, the things 
+                                        that make us who we are, stolen and locked away for “safekeeping”. We tell ourselves these measures 
+                                        are safe, secure. But “secure enough” and actually secure? Those are two very different things. 
+                                        And in the wrong hands—greedy hands, evil hands—what was once a key to keep things locked away 
+                                        becomes a weapon. Just like that, with a flick of a wrist or a momentary lapse in vigilance, 
+                                        everything you’ve built, everything you’ve trusted, is gone.
+
+                                        Why? Because we gave in - just once. A little levity, a little convenience, a little faith in 
+                                        systems we don’t really understand. That’s all it took. And now, not only are we severed from our 
+                                        things, but from something far deeper: the connection to the tangible, the material world that used to ground us.
+                                        We’re funny creatures. We obsess over objects, covet them, worship them—but not for what they are. The truth? 
+                                        The objects rarely matter. It’s the desire we’re after, the way they make us feel, the story they let us tell ourselves. 
+                                        And now, with the endless loop of technology, we’ve stepped into something new, something surreal.
+
+                                        What can technology show us? What can it hide? It doesn’t just reflect the world back to us—it reveals the unseen, 
+                                        the invisible forces that shape who we are. But here’s the thing - it’s not showing us anything new. It’s just amplifying 
+                                        what’s always been there, hidden in plain sight, carried with us, stitched into our chest, woven into our hearts. 
+                                        Future lies not in distancing ourselves from what we touch, but in finding ways to bring to our hearts the 
+                                        things we use, and tie the knot that has not been seen before."
+                                    
+
+
+
+
+
+
+
