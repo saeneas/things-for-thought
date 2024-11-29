@@ -1,5 +1,59 @@
 # things-for-thought
 
+# Week 7 Announcements
+Hey all,  
+Thank you so much for the great presentations last week. We were really pleased with the direction and progress wrapping up this first project phase. 
+We also hope you enjoyed the kick-off workshops. If you have any feedback, we will gladly pass it on to Johanna and Daniel. The workshops will go on a hiatus next week, and return the week after with coding, and another week later with the next futuring session with Johanna.
+  
+## Project input
+You will receive feedback to your overall project progress and presentations on monday morning individually.  
+This will be the last scheduled feedback session until the actual midterms in the last week before the holidays to give you all time to work without distraction and learn to trust your own intution.  
+We will give more concrete critique than you are used to, so please make time until the presentation to build prototypes and mock-ups accordingly. 
+That being said - we will *of course* be around to help you with *specific* questions. :-)
+
+As you have reading assignments from Johanna, we will not add to those, but only do some short input to really give you time with your projects.
+Attendance is still mandatory. If you need to be somewhere else to build (like the workshop or fablab, etc.) still make sure to check in.
+We will also see the remaining presentations first thing on monday, so please be on time.
+  
+## Greetings and Mandatory Reading/Listening by Johanna
+
+Hello everyone, Thanks for the fun first seminar yesterday.  
+Enclosed you will find the literature for our next seminar on Tuesday, 17 December as well as a link to the Reading Journal and the Readings:  
+
+Readings: Inayatullah, S. (2008).  
+Six pillars: Futures thinking for transforming. Foresight, 10(1), pp. 4-21. https://doi.org/10.1108/14636680810855991  
+Goode, L. & Godhe, M. (2017). Beyond Capitalist Realism – Why We Need Critical Future Studies. Available at: https://futurescone.com/ [Accessed 22 Nov. 2024].
+Andreessen, M., 2023. The Techno-Optimist Manifesto. [online] Andreessen Horowitz. Available at: https://a16z.com/the-techno-optimist-manifesto/ [Accessed 20 November 2024].  
+  
+Optional Reading: Wyatt, S. (2021). Metaphors in critical Internet and digital media studies. [online] Available at: https://doi.org/10.1007/s10115-021-01457-z [Accessed 22 Nov. 2024].  
+Grunwald, A. (2012). Was sind Technikzukünfte und warum stehen sie im Plural? In: A. Grunwald, ed., Technikzukünfte und Zukunftsvisionen in der Technikforschung, p. 23-25. München: Verlag C.H. Beck. 
+
+Add on: Since I spoke briefly with some of you about the uncertainties of modernity, here is a link to an interesting interview with Andreas Reckwitz:  
+https://www.deutschlandfunk.de/was-wir-vermissen-werden-vom-umgang-mit-verlusten-a-reckwitz-im-gespraech-dlf-1daec8d2-100.html
+  
+  
+## Preliminary Schedule
+Monday
+10      Presentations & Project Feedback  
+12      Project Work  
+13      Lunch  
+14      Project Work
+  
+Tuesday  
+10      Input  
+10 30   Project Work  
+13      Lunch  
+14      Input
+14 30   Project Work  
+    
+  
+  
+We suggest you make good use of your uninterrupted time and stay with us til 5.
+See you next week, have a great weekend, best,
+
+Lukas and Aeneas
+
+
 # Week 6 Announcements
 Hey all,  
 I hope you could recover a bit in this slightly shortened week. I realize it is somewhat a challenge that many of you have quite a tight schedule and assignments from various classes competing for the rare time slots that arent blocked with attendance.
