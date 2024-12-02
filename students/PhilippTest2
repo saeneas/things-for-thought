@@ -1,0 +1,119 @@
+# hier ist der erste Versuch zur erstellung einer Spruchdatenbank, die auch zufällige Spruchwiedergabe als feature hat. 
+
+
+import sqlite3
+import random
+import ipywidgets as widgets
+from IPython.display import display, clear_output
+
+# Sprüche vorab definieren
+initial_sprueche = [
+    "Das Leben ist kurz – lache, solange du noch Zähne hast.",
+    "Jeder Tag ist eine neue Chance für ein kleines Wunder.",
+    "Dein Herz weiß, wohin du gehst. Hör genau hin.",
+    "Du bist der Architekt deines eigenen Glücks.",
+    "Der wahre Schatz im Leben ist die Freundschaft.",
+    "Auch der kleinste Schritt in die richtige Richtung ist ein Fortschritt.",
+    "Deine Träume sind der Kompass, der dich leitet.",
+    "Heute ist der erste Tag vom Rest deines Lebens.",
+    "Die besten Dinge im Leben sind nicht die, die man für Geld kaufen kann.",
+    "Wer nicht wagt, der nicht gewinnt – also wag!",
+    "Glück ist die Kunst, das Leben zu umarmen, wie es ist."
+]
+
+# Datenbank initialisieren
+def initialize_db():
+    conn = sqlite3.connect("sprueche.db")
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS Sprueche (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            spruch TEXT NOT NULL
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+# Sprüche in die Datenbank einfügen
+def populate_db(sprueche):
+    conn = sqlite3.connect("sprueche.db")
+    cursor = conn.cursor()
+    cursor.executemany(
+        "INSERT INTO Sprueche (spruch) VALUES (?)",
+        [(spruch,) for spruch in sprueche]
+    )
+    conn.commit()
+    conn.close()
+
+# Spruch speichern
+def save_spruch(spruch):
+    conn = sqlite3.connect("sprueche.db")
+    cursor = conn.cursor()
+    cursor.execute("INSERT INTO Sprueche (spruch) VALUES (?)", (spruch,))
+    conn.commit()
+    conn.close()
+
+# Zufälligen Spruch abrufen
+def get_random_spruch():
+    conn = sqlite3.connect("sprueche.db")
+    cursor = conn.cursor()
+    cursor.execute("SELECT spruch FROM Sprueche")
+    results = cursor.fetchall()
+    conn.close()
+    if results:
+        return random.choice(results)[0]
+    else:
+        return None  # Rückgabe von None, wenn keine Sprüche vorhanden sind
+
+# Callback-Funktion für das Speichern eines Spruchs
+def on_submit(change):
+    spruch = text_box.value.strip()
+    if not spruch:
+        output.clear_output()
+        with output:
+            print("❌ Bitte einen gültigen Spruch eingeben!")
+    else:
+        save_spruch(spruch)
+        output.clear_output()
+        with output:
+            print(f"✅ Spruch wurde erfolgreich gespeichert: '{spruch}'")
+        text_box.value = ""
+
+# Callback-Funktion für das Abrufen eines zufälligen Spruchs
+def on_random_spruch(change):
+    random_spruch = get_random_spruch()
+    output.clear_output()
+    with output:
+        if random_spruch:
+            print(f"🎲 Zufälliger Spruch: '{random_spruch}'")
+        else:
+            print("❌ Keine Sprüche in der Datenbank! Bitte füge zuerst einen Spruch hinzu.")
+
+# Datenbank initialisieren und Sprüche hinzufügen
+initialize_db()
+populate_db(initial_sprueche)
+
+# Eingabefeld und Buttons erstellen
+text_box = widgets.Text(
+    description='Spruch:',
+    placeholder='Hier Spruch eingeben',
+    layout=widgets.Layout(width='400px')
+)
+submit_button = widgets.Button(
+    description="Speichern",
+    button_style='success',
+    tooltip='Klick, um den Spruch zu speichern'
+)
+random_button = widgets.Button(
+    description="Zufälliger Spruch",
+    button_style='info',
+    tooltip='Klick, um einen zufälligen Spruch anzuzeigen'
+)
+output = widgets.Output()
+
+# Button-Ereignisse verknüpfen
+submit_button.on_click(on_submit)
+random_button.on_click(on_random_spruch)
+
+# Elemente anzeigen
+display(widgets.VBox([text_box, submit_button, random_button, output]))
