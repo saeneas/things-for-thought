@@ -1,5 +1,34 @@
 # things-for-thought
 
+# Week 8 Announcements
+Hey all,  
+next weeks schedule will be a bit lighter, as there will be no individual critique or feedback sessions.  
+The coding class with Daniel will continue on Tuesday, with the DAM course following in the afternoon.
+I will give a short input on the concept of design friction on monday, optionally with a small discussion, depending on how much time you want to spend on it :-).  
+Otherwise we will give you time for the mid-term presentations the week after. We will be around to help you with specific questions, for example on coding or other technical issues.
+The update about digital sovereignty will be uploaded in the next days as I'm thinking about maybe setting up some sort of archive for the inputs.
+  
+  
+## Preliminary Schedule
+Monday
+10      Input  
+12      Project Work  
+13      Lunch  
+14      Project Work  
+    
+Tuesday  
+10      Coding Course II  
+13      Lunch  
+14      DAM/Project Work  
+15 30   Project Work   
+    
+  
+  
+We again suggest you make good use of your uninterrupted time and stay with us til 5.
+See you next week, have a great weekend, best,
+
+Lukas and Aeneas
+
 # Week 7 Announcements
 Hey all,  
 Thank you so much for the great presentations last week. We were really pleased with the direction and progress wrapping up this first project phase. 
