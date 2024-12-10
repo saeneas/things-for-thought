@@ -1,5 +1,36 @@
 # things-for-thought
 
+# Week 9 Announcements
+Hey all,  
+upcoming week is going to be about the midterms. These are the ramifications:  
+
+- 5 Minutes per presentation, timed! (exception for a presentation on the history and cultural meanings of ornaments we're super excited about!)  
+  - about 2/3 on what has been done, 1/3 what's to come  
+  - Be sure to show your prototypes/sketches/visual to get good feedback.  
+- Feedback will be *collaborative* in the _groups from last time_, so please pay special attention and make notes to give the best possible feedback!  
+- Because on Tuesday there's going to be the second session with Johanna, please make sure to do the reading!  
+- Please find the time to clean up the room (decide which one) and arrange in a way that think fits the occasion. Either during the week or on monday before the course.  
+- We will start on time, so please be respectful to the early presenters and arrive *on time*.
+- Make sure that you have a running order in place by Monday.  
+  
+
+
+## Preliminary Schedule  
+Monday  
+10      Midterms  
+12      Break  
+13      Collaborative Feedback  
+14      Exercise (tba)
+14:30   Check-outs
+  
+  
+Tuesday  
+10      Class with Johanna   
+13      Break  
+14      Good-Bye 2024  
+15      DAM  
+
+
 # Week 8 Announcements
 Hey all,  
 next weeks schedule will be a bit lighter, as there will be no individual critique or feedback sessions.  
