@@ -29,7 +29,7 @@ https://newmedia.udk-berlin.de/students/vinzenz-aubry/cameras-of-life
 Additional links here:
 
 
-### Talk and wine with Vera Sachetti
+### Talk and wine with Vera Sachetti, Monday 5.15 p.m.
 Ineke cordially invites us to join an evening with wine and interesting input by Vera Sachetti.
 We strongly recommend going!!!
 
