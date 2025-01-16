@@ -1,5 +1,63 @@
 # things-for-thought
 
+# Week 11 Announcements
+Hey all,  
+happy new year AGAIN :-) We're super excited to enter the last phase of this semester with you.
+Next week, as already menioned, we will split Monday and Tuesday similar to last week.  
+Monday we want you to give you the time and headspace to get ahead with your project. Tuesday is reserved for the last session of the workshop with Johanna. Please be on time to help us to stay on schedule.  
+We will provide a 20 minute input on giving your projects a shape on Monday afternoon.  
+As the exhibition and the finals are already on the horizon, we expect some progress and some effort to demonstrate what specifically happened during the last week. Some of you had only loose thoughts to talk about last time. This is understandable given the break and Kollisionswoche. For next week please remember, we can only provide efficient feedback on mockups, etc. Even if you feel stuck, as often emphasized, please make an actual effort to produce something to talk about, the more the better. Please no alibi doodles ;-) Next week, we're timing the consultations to stay within schedule - sorry to all of you who have been affected by the delays. We will make an effort to keep everything a bit more on track.  
+Have a great end of week and weekend, see you Monday!
+
+### Note on attendance
+Quite a few of you have reached the maximum number of days you can miss. If unsure, please  feel free to inquire.  
+
+### The project links from Tuesday
+Here are the projects we quickly showcased. We deliberately limited them to student projects.
+If you want to add some (also non-student projects), feel free to do so via pull request below!
+
+https://www.youtube.com/watch?v=tkJX8su6aVM  
+https://www.youtube.com/watch?v=VIUSBa546ms  
+https://ecal.ch/en/feed/projects/7925/reminix/  
+https://ecal.ch/en/feed/projects/7918/esc/  
+https://smellofdata.com/  
+https://vimeo.com/841937562  
+https://newmedia.udk-berlin.de/students/vinzenz-aubry/cameras-of-life  
+
+---
+
+Additional links here:
+
+
+### Talk and wine with Vera Sachetti
+Ineke cordially invites us to join an evening with wine and interesting input by Vera Sachetti.
+We strongly recommend going!!!
+
+## Preliminary Schedule
+Monday
+We will support you individually in the morning if you need technical help or direction.
+10    Small announcement on the exhibition + Work
+11    Work
+12    Work
+13    Break
+14    Input
+1420  Consultations
+15    Fachschaftstreffen
+16    Consultations
+17.15 Talk and wine with Vera Sachetti
+
+*There's some uncertainty about the exact time of the Fachschaftstreffen. Anyhow we encourage you to participate!!!*
+
+Tuesday
+10    Workshop with Johanna
+11    Workshop with Johanna
+12    Workshop with Johanna
+13    Break
+14    DAM & Checkout consultations according to demand.
+15    DAM & Checkout consultations according to demand.
+16    Checkout consultations according to demand.
+17    Checkout consultations according to demand.
+  
 # Week 9 Announcements
 Hey all,  
 upcoming week is going to be about the midterms. These are the ramifications:  
