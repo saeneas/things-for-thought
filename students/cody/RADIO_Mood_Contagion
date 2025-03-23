@@ -1,0 +1,137 @@
+(
+var path = "/Users/fuckoff/Desktop/sounds/"; // Change to your storage path
+
+~timestamp = { Date.getDate.format("%Y-%m-%d_%H-%M-%S") };
+
+//define synth, reverb and dreamy sounds
+
+
+SynthDef(\reactiveDreamChords, {
+    var input, amplitude, trigger, freqs, osc, saw, fm, sound, filter, envelope, pan, delay, shimmer;
+
+    //listen for  sounds
+    input = SoundIn.ar(0);
+    amplitude = Amplitude.kr(input, 0.1, 0.1); // Get loudness
+
+    // chord trigger on amplitude/loudness
+    trigger = amplitude > 0.2; 
+    //^^adjust for sensitivity
+
+    // **Select a chord progression dynamically**
+    freqs = [
+        [4, 55, 60, 67],  // Cmaj9
+        [50, 57, 62, 69],  // Dmin9
+        [52, 59, 64, 71],  // Emin9
+        [45, 52, 57, 64],  // Amin9
+        [43, 50, 55, 62]   // Gmaj9
+    ].choose.midicps * LFNoise1.kr(0.1).range(0.98, 1.02); // **Gentle detuning**
+
+    // add layers from buffer
+    osc = Mix.fill(freqs.size, { |i|
+        var detune = LFNoise1.kr(0.05).range(0.99, 2.01);
+        SinOsc.ar(freqs[i] * detune, 0, 0.1)
+    });
+
+    //detuning
+    saw = Mix.fill(freqs.size, { |i|
+        var detune = LFNoise1.kr(0.05).range(0.98, 2.02);
+        Saw.ar(freqs[i] * detune, 0.1)
+    });
+
+    fm = Mix.fill(freqs.size, { |i|
+        var mod = SinOsc.ar(freqs[i] * 2, 0, 0.1);
+        SinOsc.ar(freqs[i] + mod, 0, 0.08)
+    });
+
+    //blending
+    sound = (osc * 0.5) + (saw * 0.4) + (fm * 0.3);
+
+    //swell
+    filter = RLPF.ar(sound, LFNoise1.kr(0.03).range(400, 2000), 0.6);
+
+    //effects senction
+    delay = CombL.ar(filter, 2, [0.2, 0.3, 0.4], 4);
+    shimmer = PitchShift.ar(filter, 0.2, 1.5, 0.2, 0.1); // **Soft pitch shimmer effect**
+    sound = (filter * 0.6) + (delay * 0.3) + (shimmer * 0.2);
+
+    // long envelope
+    envelope = EnvGen.kr(Env.asr(10, 0.7, 30), trigger, doneAction: 2);
+
+    // panning right left
+    pan = SinOsc.kr(0.05).range(-1, 1);
+    Out.ar(0, Pan2.ar(sound * envelope, pan));
+}).add;
+
+
+// triggrring of chord dquences
+s.waitForBoot {
+    Synth(\dreamyReverseReverb);
+    Synth(\modulatedDreamyReverb);
+    Synth(\randomAmbientPad);   
+    Synth(\reactiveDreamChords); 
+
+    {
+        var input = SoundIn.ar(0);
+        var gain = input * 5;
+        Out.ar([0, 1], gain);
+    }.play;
+
+    ~recordSound = {
+        var fileName = path ++ ~timestamp.() ++ ".wav";
+        var recorder = Recorder(s);
+
+        if (recorder.isRecording) {
+            recorder.stop;
+            "Stopped previous recording.".postln;
+        };
+
+        recorder.record(fileName, numChannels: 1);
+        "Recording started...".postln;
+
+        SystemClock.sched(300, {
+            recorder.stop;
+            "Recording stopped!".postln;
+            SystemClock.sched(2, { ~recordSound.(); });
+        });
+    };
+
+    ~recordSound.();
+
+    Routine({
+        loop {
+            ~playLayeredSound.();
+            (10 + (20.rand)).wait;
+        }
+    }).play;
+
+    ~loadRandomBuffer = {
+        var files = PathName(path).entries.select(_.extension == "wav");
+        if (files.notEmpty) {
+            var file = files.choose;
+            var buf = Buffer.read(s, file.fullPath);
+            buf;
+        } {
+            nil;
+        };
+    };
+
+    ~playLayeredSound = {
+        var buf = ~loadRandomBuffer.();
+        if (buf.notNil) {
+            {
+                var rate = [0.3, 0.7, 1].choose;
+                var pan = [-1, 0, 1].choose;
+                var start = rrand(0.0, BufDur.kr(buf) * 0.5);
+                var sound = PlayBuf.ar(1, buf, rate, startPos: start, doneAction: 2);
+
+                sound = FreeVerb.ar(sound, mix: 1.0, room: 0.95, damp: 0.4);
+                sound = AllpassN.ar(sound, 3, [0.7, 1.3], 7);
+
+                Out.ar(0, Pan2.ar(sound * 0.4, pan));
+            }.play;
+        };
+    };
+};
+)
+
+
