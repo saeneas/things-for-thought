@@ -127,27 +127,61 @@ need an imeddiete lock nor do they requere the connection I seek.
 Ultimately, I’m leaning toward creating a cardholder/Bitcoin wallet as a modern everyday carry essential that I think actually needs security - I think in this process I might
 have lost a conceptual side or have a different perespective on what counts as good concept.
 
+Possessions have always been median in how we see ourselves. They are the tangible expressions of identity, carried through life as we grow up. 
+For kids and adults, possessions are tools for exploring and communicating who they are becoming, means of connecting to themselves and to the social 
+world around them. In later life - possessions take a deeper meaning, helping elderly preserve a sense of continuity starched across their timeline. 
+Anchoring memories which serve as a sort of a bridge, between past, present and imagined future. Providing framework for contemplating mortality by holding onto legacy.
 
-                                        "The world, as it stands now, is a strange and sinister place. Deception, fraud, trickery—it’s 
-                                        not just out there; it’s everywhere, in the air we breathe. Faces, fingerprints, the things 
-                                        that make us who we are, stolen and locked away for “safekeeping”. We tell ourselves these measures 
-                                        are safe, secure. But “secure enough” and actually secure? Those are two very different things. 
-                                        And in the wrong hands—greedy hands, evil hands—what was once a key to keep things locked away 
-                                        becomes a weapon. Just like that, with a flick of a wrist or a momentary lapse in vigilance, 
-                                        everything you’ve built, everything you’ve trusted, is gone.
+In today’s world our connection to the material is shifting. The rise of fast consumption through social media and marketing, are ever so accelerated. 
+We have been distanced from the physical world. Objects are no longer valued for their longevity or the link we develop with them, but rather - their 
+social status and fleeting utility. By continuing this cycle we risk being disconnected from the material world and what it once offered - a sense of 
+stability and authenticity, a way to express yourself while staying true to yourself.
 
-                                        Why? Because we gave in - just once. A little levity, a little convenience, a little faith in 
-                                        systems we don’t really understand. That’s all it took. And now, not only are we severed from our 
-                                        things, but from something far deeper: the connection to the tangible, the material world that used to ground us.
-                                        We’re funny creatures. We obsess over objects, covet them, worship them—but not for what they are. The truth? 
-                                        The objects rarely matter. It’s the desire we’re after, the way they make us feel, the story they let us tell ourselves. 
-                                        And now, with the endless loop of technology, we’ve stepped into something new, something surreal.
+The concept of a bond with an object should be one of the steps in accomplishing, personal connections once held with objects. 
+Rather than being commodities, these possessions become collaborators in shaping identity. Forming a connection that is truly personal and not fully utilitarian. 
+The act of being chosen creates a profound emotional connection - it insists a sense of worth, and uniqueness of the situation as if the object recognises and gives 
+feedback to the user without actually being technologically skewed. Object shapes the owner while the owner fulfills its purpose.
 
-                                        What can technology show us? What can it hide? It doesn’t just reflect the world back to us—it reveals the unseen, 
-                                        the invisible forces that shape who we are. But here’s the thing - it’s not showing us anything new. It’s just amplifying 
-                                        what’s always been there, hidden in plain sight, carried with us, stitched into our chest, woven into our hearts. 
-                                        Future lies not in distancing ourselves from what we touch, but in finding ways to bring to our hearts the 
-                                        things we use, and tie the knot that has not been seen before."
+03.12.2024  
+
+Midterms - 16.12.2024
+
+TO DO 
+
+- Build the dagger or let it go 
+- Validate the biometric possibilities of the sensor
+- Roughly visualize the obkect and the interaction in the context of the exhibition 
+
+
+- The dagger
+
+Shape
+
+Get all the parts that go inside - 
+Blade
+Case -
+  BMD101
+  Solonoid lock
+  Arduino nano ESP32
+  battery
+  Button
+  Hinge
+
+- Biometric
+
+Get my data
+Build the respo
+add faetures like recording
+
+- Think abou the visualisation
+
+
+
+
+
+
+
+
                                     
 
 
